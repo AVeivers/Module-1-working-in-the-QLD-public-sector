@@ -1,0 +1,32 @@
+{
+  "version": "3.98.34263.0",
+  "course_id": "5pbzmOo9R7c",
+  "title": "Module 4: Your reflection",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Module 3 Reflection Activity"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5mk2OfWI4LC",
+      "title": "Enter your response",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6LZB8k4hSaz",
+      "title": "                Module 1: Working in the Queensland public sector",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1100,
+    "height": 475
+  },
+  "stage": {
+    "width": 1080,
+    "height": 380
+  }
+}

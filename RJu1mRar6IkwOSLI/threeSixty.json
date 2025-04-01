@@ -1,0 +1,32 @@
+{
+  "version": "3.98.34222.0",
+  "course_id": "6jjYdH9VYmf_course_id",
+  "title": "Course Certificate Template",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Course Certificate"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6U9exECVJos",
+      "title": "Type name",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6JQpD4xcBp0",
+      "title": "Certificate",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 635
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

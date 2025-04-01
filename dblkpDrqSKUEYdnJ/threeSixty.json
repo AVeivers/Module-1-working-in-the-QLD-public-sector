@@ -1,0 +1,32 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "5qSueIlZrIZ",
+  "title": "Module 1 Social poll_V1.1_trans bckgd",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Module 1 social poll"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5jG4MY8BkUS",
+      "title": "Multiple Choice",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "611OF6INAEc",
+      "title": "Peer responses",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 498
+  },
+  "stage": {
+    "width": 960,
+    "height": 380
+  }
+}
